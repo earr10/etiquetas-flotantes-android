@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EtiquetasFlotantes</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_direccion">Direccion</string>
+    <string name="accion_enviar">Enviar</string>
+</resources>
